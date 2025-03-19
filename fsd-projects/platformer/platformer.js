@@ -40,12 +40,11 @@ $(function () {
     // TODO 3 - Create Collectables
     createCollectable("steve", 200, 170, 0, 0.7);
     createCollectable("steve", 500, 600, 0, 0.7);
-    createCollectable("steve", 1200, 100, 0, 0.7);
     createCollectable("steve", 1100, 300, 0, 0.7);
 
     // TODO 4 - Create Cannons
     createCannon("top", 300, 2000)
-    createCannon("left", 210, 1000)
+    createCannon("left", 200, 1000)
     createCannon("right", 450, 2000)
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
